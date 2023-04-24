@@ -7,7 +7,7 @@ This is a page- or poster-sized cheat sheet for Arduino programmers.  It draws p
   <a href="https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf?raw=true"><img src="Arduino%20Cheat%20Sheet.svg?raw=true&sanitize=1" width="60%" alt="Cheat Sheet"></a>
 </p>
 
-It is based on a [cheat sheet by Gavin Smith](https://sites.google.com/site/mechatronicsguy/arduinocheatsheet) and an [SVG adaptation by Frederic Dufourg](https://forum.arduino.cc/t/single-page-arduino-cheat-sheet/7066/44#msg56273).  Additionally, the Arduino Uno board drawing is adapted from an Arduino board drawing in [Fritzing](https://fritzing.org/) (under a CC-BY-SA license).
+It is based on a [cheat sheet by Gavin Smith](https://sites.google.com/site/mechatronicsguy/arduinocheatsheet) and an [SVG adaptation by Frederic Dufourg](https://forum.arduino.cc/t/single-page-arduino-cheat-sheet/7066/44#msg56273).  Additionally, the ESP32 Devkitv1 board drawing is adapted from an https://www.mischianti.org/ (under a CC-BY-SA license).
 
 Please let me know if you find any errors -- Thanks!
 
